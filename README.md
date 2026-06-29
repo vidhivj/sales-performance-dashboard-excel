@@ -22,7 +22,8 @@ This project is an interactive Sales Performance Dashboard created in Microsoft 
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+<img width="330" height="281" alt="Dashboard_Sceenshot_final" src="https://github.com/user-attachments/assets/75c6a8ec-e69c-4f06-a078-f66315e08249" />
+
 
 ## Author
 
