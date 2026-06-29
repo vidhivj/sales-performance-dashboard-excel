@@ -19,6 +19,8 @@ This project is an interactive Sales Performance Dashboard created in Microsoft 
 - Pivot Charts
 - Excel Formulas
 - Conditional Formatting
+- Buisness Reporting
+- Dashboard design
 
 ## Dashboard Preview
 
